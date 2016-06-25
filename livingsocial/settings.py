@@ -19,9 +19,9 @@ DATABASE = {
     'drivername': 'postgres',
     'host': 'localhost',
     'port': '5432',
-    'username': 'chris',
-    'password': '',
-    'database': 'scrape'
+    'username': 'scrapy',
+    'password': 'Cws42680!!',
+    'database': 'scrapy'
 }
 
 
